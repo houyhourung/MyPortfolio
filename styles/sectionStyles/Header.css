@@ -1,0 +1,17 @@
+.Header{
+    background: var(--bgGradient);
+}
+.Header_logo{
+    color: var(--white);
+}
+
+.Header_navLink{
+    color: var(--white);
+}
+
+.Header_higligh{
+    color: var(--accentYellow);
+}
+.Header_titke, .Header_subTitle{
+    color: var(--white);
+}
