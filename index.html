@@ -33,6 +33,9 @@
               <div class="aboutContent">
                   <h4 class="About_title">About</h4>
                   <h2 class="About_subTitle">My name is HouyHour Ung</h2>
+                  <div class="About_imgContainer">
+                      <img class="About_img" src="./assets/DSC03719.JPG" alt="Profile Picture" width = "500px"/>
+                  </div>
                   <div class="About_bioContent">
                       <p class="About_bio">Born and raise in Cambodia</p>
                       <button class="btn About_btn">Download Resume</button>
@@ -59,6 +62,30 @@
           <section class="Main_contact" id="contact">
               <h4 class="Contatct_Title">Contact</h4>
               <h2 class="Contatct_subTitle">Get In Touch</h2>
+              <div class="Contact_formContainer">
+                  <form action="" method="POST" class="Contact_form">
+                      <div class="Contact_input">
+                          <div class="Contact_formFiled">
+                              <label for="name" class="Contact_label">Name:</label>
+                              <input type="text" name="" id="name" class="Contact_input" required> 
+                          </div>
+                          <div class="Contact_formFiled">
+                            <label for="email" class="Contact_label">Email:</label>
+                            <input type="text" name="email" id="email" class="Contact_input" required> 
+                        </div>
+                        <div class="Contact_formFiled">
+                            <label for="phone" class="Contact_label">Phone Number:</label>
+                            <input type="text" name="phone" id="phone" class="Contact_input" required> 
+                        </div>
+                    </div>
+                    <div class="Contact_MessageFiled">
+                        <label for="message" class="Contact_label">Message:</label>
+                        <textarea name="message" id="message" class ="Contact_messgae"></textarea>
+                    </div>
+                    <button type="submit" class="btn Contact_btn"> Submit</button>
+                      </form> 
+                  </form>
+              </div>
           </section>
       </main>
       <footer class= "Footer">
