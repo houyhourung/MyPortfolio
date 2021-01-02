@@ -1,18 +1,18 @@
 .Work{
-    background: var(--bgGrey);
+    color: #FFBF00;
 }
-.Work_tile{
-    color: var(--accentYellow);
+.Main_projectContent{
+
 }
 
 .Work_subtitle{
     color: var(--accentBlue);
 }
 
-.Work_projectTitle{
+.work_projectTitle{
     color: var(--accentBlue);
 }
 
-.Work_projectInfro{
-    color: var(--blueOpacity);
+.ProjectInfo{
+    color:rgb(48, 43, 43);
 }

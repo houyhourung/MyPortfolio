@@ -9,8 +9,8 @@
     color: var(--white);
 }
 
-.Header_higligh{
-    color: var(--accentYellow);
+.Header_highlight{
+    color: #FFBF00;
 }
 .Header_titke, .Header_subTitle{
     color: var(--white);
