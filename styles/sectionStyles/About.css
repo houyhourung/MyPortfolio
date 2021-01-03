@@ -1,11 +1,33 @@
+.About{
+    padding: 2.1rem 0;
+
+}
+.About_imgCotainer{
+    width: 95%;
+    margin: 0 auto;
+}
+.About_img{
+    width: 100%;
+}
 .About_title{
     color: #FFBF00;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    width: 95%;
+    margin: 2.1rem auto 1rem;
 }
 
 .About_subTitle{
     color: var(--accentBlue);
+    font-size: 3.2rem;
+    width: 95%;
+    margin: 0 auto 2.1rem;
 }
 
-.About_info{
+.About_bio{
     color: var(--blueOpacity);
+    font-size: 1.5rem;
+    line-height: 1.4;
+    margin-bottom: 2rem;
+
 }

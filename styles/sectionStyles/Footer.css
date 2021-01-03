@@ -3,6 +3,8 @@
 }
 .Footer_copyright{
     color: var(--accentYellow);
+    font-size: 2rem;
+    
 }
 
 .Footer_socialLink{

@@ -7,12 +7,17 @@
 
 .Work_subtitle{
     color: var(--accentBlue);
+    font-size: 3.2rem;
 }
 
 .work_projectTitle{
     color: var(--accentBlue);
+    font-size: 2rem;
 }
 
 .ProjectInfo{
     color:rgb(48, 43, 43);
+    font-size: 1.5rem;
+    line-height: 1.4;
+    
 }
